@@ -6,3 +6,4 @@ def mul_func(a, b):
 
 def div_master(a, b):
     return a//b
+ 
