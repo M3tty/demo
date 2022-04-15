@@ -3,3 +3,6 @@ def sum(a: int,b: int) -> int:
 
 def mul_func(a, b):
     return a * b
+
+def div(a, b):
+    return a/b
